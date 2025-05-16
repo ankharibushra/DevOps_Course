@@ -1,1 +1,1 @@
-# DevOps_Course
+DevOps_Course_Ostad Assignment and Practice Repo
